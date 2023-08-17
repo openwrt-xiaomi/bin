@@ -19,10 +19,10 @@ Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, ubi-utils, fstools, f
 License: GPL-2.0
 Section: base
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 60942
+Installed-Size: 60953
 Filename: base-files_1540-r23228-cd17d8df2a_arm_cortex-a15_neon-vfpv4.ipk
-Size: 61977
-SHA256sum: b08622023011bf0afc066247f03f7f7e47f6426ae673e860bc897eb65edd646b
+Size: 61981
+SHA256sum: f5fc21d4b555363c39c75a5eaf01ea4d059169e354628f83565fcd5bc0522a83
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
